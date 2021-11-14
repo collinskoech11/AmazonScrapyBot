@@ -13,7 +13,7 @@ class AmazontutorialItem(scrapy.Item):
     # name = scrapy.Field()
     product_name = scrapy.Field()
     product_author = scrapy.Field()
-    product_price = scrapy.Field()
-    product_imagelink = scrapy.Field()
+    #product_price = scrapy.Field()
+    #product_imagelink = scrapy.Field()
 
     pass
